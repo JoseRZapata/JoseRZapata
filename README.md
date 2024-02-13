@@ -1,17 +1,15 @@
-# 💫 Hi there, I'm [Jose R. Zapata](https://joserzapata.github.io/) <img src="https://raw.githubusercontent.com/JoseRZapata/JoseRZapata/master/wave.gif" width="30">
+# 🧑‍💻️ Hi there, I'm [Jose R. Zapata](https://joserzapata.github.io/) <img src="https://raw.githubusercontent.com/JoseRZapata/JoseRZapata/master/wave.gif" width="30">
 
 Data Science Technical Leader and Post-graduate Professor at Faculty of Information and Communication Technologies (TIC).
 
-My interests are based around Data science, MLOps and Audio and Music information technologies, which includes [Music information retrieval], Machine Learning, CI/CD/CT, Audio analysis and Data analysis.
-
- <https://joserzapata.github.io/>
+My interests are based around Data science, MLOps and Audio and Music information technologies, which includes [Music information retrieval], Machine Learning, CI/CD/CT, Audio analysis and Data analysis. I love Music 🎸.
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-ricardo-zapata-gonzalez/)
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/joserzapata)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=logo&logo=YouTube)](https://youtube.com/@JoseRZapata)
-
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fjoserzapata.github.io%2F&up_message=joserzapata.github.io%2F&up_color=white&style=flat&label=https://&color=328cc1)](https://joserzapata.github.io/)
 
 ## 💻 Tech Stack
 
@@ -30,8 +28,7 @@ My interests are based around Data science, MLOps and Audio and Music informatio
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-![JoseRZapata GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseRZapata&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRZapata&hide_progress=true&theme=react)
+![JoseRZapata GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseRZapata&show_icons=true&theme=react&hide=issues,contribs)
 
 ---
 
