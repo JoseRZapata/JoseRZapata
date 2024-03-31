@@ -1,6 +1,6 @@
 # 🧑‍💻️ Hi there, I'm [Jose R. Zapata](https://joserzapata.github.io/) <img src="https://raw.githubusercontent.com/JoseRZapata/JoseRZapata/master/wave.gif" width="30">
 
-Data Science Technical Leader and Adjunct Professor at Faculty of Information and Communication Technologies (TIC), Universidad Pontificia Bolivariana.
+Data Science Technical Leader at [MercadoLibre](https://www.mercadolibre.com.co/) and Adjunct Professor at Faculty of Information and Communication Technologies (TIC), Universidad Pontificia Bolivariana. https://joserzapata.github.io/
 
 My interests are based around Data science, MLOps and Audio and Music information technologies, which includes [Music information retrieval], Machine Learning, CI/CD/CT, Audio analysis and Data analysis. I love Music 🎸.
 
